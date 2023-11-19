@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbd37fade2e03cf45954d547c35a175d, type: 3}
+  m_Name: NPC file
+  m_EditorClassIdentifier: 
+  name: Silveo
+  dialogue:
+  - Hey Whats up?
+  - 'Come on in! Read the Safety instructions first. '
+  - Play around with the controls, lets see if you learn something new!
+  - Try attaching that to the spindle. Have fun!
+  playerDialogue:
+  - Going good! I'd like to explore the VR world
+  - Aha! Then what?
+  - Whats that Object hovering around?
