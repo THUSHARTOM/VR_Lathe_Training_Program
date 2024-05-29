@@ -6,6 +6,16 @@ Using photogametry, we scanned the actual Lathe and imported it to blender. Afte
 
 The detailed report can be found [here](/VR_lathe.pdf)
 
+## Pictures
+
+### Workplace environment design
+![](/workplace.png)
+### Lathe Control Unit
+![](/control_unit.png)
+### Terrain
+![](/drone_shot1.png)
+![](/drone_shot2.png)
+
 ## Run
 
 - Download the XR_simulator.rar from [here](https://nextcloud.th-deg.de/s/2n5nDxfgGDxpyXH)
@@ -41,12 +51,4 @@ The detailed report can be found [here](/VR_lathe.pdf)
 - Background music to give an immersive experience
 
 
-## Pictures
 
-### Workplace environment design
-![](/workplace.png)
-### Lathe Control Unit
-![](/control_unit.png)
-### Terrain
-![](/drone_shot1.png)
-![](/drone_shot2.png)
