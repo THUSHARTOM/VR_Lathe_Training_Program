@@ -13,7 +13,7 @@ The detailed report can be found [here](/VR_lathe.pdf)
 - Open a this project in Unity
 - Play Introduction scene
 
-## softwares used 
+## softwares  
 
 - Unity - 2021.3.22f1
 - Blender 3.5
@@ -42,6 +42,11 @@ The detailed report can be found [here](/VR_lathe.pdf)
 
 
 ## Pictures
+
+### Workplace environment design
 ![](/workplace.png)
+### Lathe Control Unit
+![](/control_unit.png)
+### Terrain
 ![](/drone_shot1.png)
 ![](/drone_shot2.png)
